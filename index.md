@@ -6,3 +6,8 @@
 
 # And now for something completely different
 ![Image of Yaktocat](https://octodex.github.com/images/labtocat.png)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
