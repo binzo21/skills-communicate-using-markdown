@@ -11,3 +11,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+# And now i am adding a checklist:
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
